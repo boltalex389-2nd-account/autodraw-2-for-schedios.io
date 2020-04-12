@@ -1,6 +1,6 @@
 {
     "manifest_version": 2,
-    "name": "AutoDraw for skribbl.io",
+    "name": "AutoDraw for schedios.io (BETA)",
     "description": "Auto draws images in pictionary game, skribbl.io.",
     "version": "0.2.6",
     "icons": {
